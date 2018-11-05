@@ -1,0 +1,53 @@
+{
+  "_from": "git+https://github.com/icecoolinux/bgs-core.git",
+  "_id": "com.red_folder.phonegap.plugin.backgroundservice@2.0.0",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/com.red_folder.phonegap.plugin.backgroundservice",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "https://github.com/icecoolinux/bgs-core.git",
+    "rawSpec": "https://github.com/icecoolinux/bgs-core.git",
+    "saveSpec": "git+https://github.com/icecoolinux/bgs-core.git",
+    "fetchSpec": "https://github.com/icecoolinux/bgs-core.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/icecoolinux/bgs-core.git#77fd162ccdf3da9a181e0087863a3361de880e53",
+  "_spec": "https://github.com/icecoolinux/bgs-core.git",
+  "_where": "C:\\ProjetosInatel\\ionic4-angular6",
+  "author": {
+    "name": "Red-Folder"
+  },
+  "bugs": {
+    "url": "https://github.com/Red-Folder/bgs-core/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Framework code that allows the development and operation of an Android Background Service.",
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "homepage": "https://github.com/Red-Folder/bgs-core#readme",
+  "keywords": [
+    "background",
+    "cordova"
+  ],
+  "license": "Apache 2.0",
+  "name": "com.red_folder.phonegap.plugin.backgroundservice",
+  "platforms": [
+    "android"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/icecoolinux/bgs-core.git"
+  },
+  "version": "2.0.0"
+}
